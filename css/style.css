@@ -1,25 +1,34 @@
-* { 
-    margin: 0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
 }
 
-.nav-1{
-    width: 150px;
+.nav-1 {
+  width: 150px;
 }
 
-.nav-1:hover{
-    cursor: pointer;
+.nav-1:hover {
+  cursor: pointer;
 }
 
-.container-fluid:hover{
-cursor: pointer;
+.container-fluid:hover {
+  cursor: pointer;
 }
 
 .search-logo {
-    margin-top: -10px;
-    margin-left: -80px;
+  margin-top: -10px;
+  margin-left: -80px;
 }
 
 .search-logo:hover {
-    cursor: pointer;
-} 
+  cursor: pointer;
+}
+
+.carousel-pic {
+  height: 550px;
+}
+
+.carousel-caption{
+  margin-bottom: 150px;
+}
+
