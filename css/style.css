@@ -32,3 +32,62 @@
   margin-bottom: 150px;
 }
 
+
+.cards{
+  transition: transform 0.3s ease,
+}
+.card-1:hover{
+  transform: scale(1.10);
+}
+
+.hero-section-3{
+  background-image: url(../images/hero\ section\ 3\ pic.jpg);
+  height: 57vh;
+}
+
+.icons-names{
+ justify-content: space-between;
+}
+
+.icons{
+  transition: transform 0.1s ease,
+}
+
+.icon-1:hover{
+  transform: scale(1.15);
+}
+
+.icons-names:hover{
+cursor: pointer;
+}
+
+.card-body-1{
+  background-image: url(../images/hero-section-4.jpg);
+  height: 54vh;
+  visibility: visible;
+  animation: slideInRight 1s ease forwards;
+}
+
+.card-body-2{
+  background-image: url(../images/hero-section-4-2.jpg);
+  visibility: visible;
+  height: 54vh;
+  animation: slideInRight 1s ease forwards;
+}
+
+@keyframes slideInRight {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(0); 
+  }
+}
+
+.card-title-2{
+  padding-right: 140px;
+}
+
+.card-text-1{
+  padding-right: 110px;
+}
