@@ -91,3 +91,122 @@ cursor: pointer;
 .card-text-1{
   padding-right: 110px;
 }
+
+.image{
+  padding-left: 530px;
+}
+
+
+.star-img{
+  margin-top: -70px;
+}
+
+.card-body h6{
+margin-top: -20px;
+}
+
+.cards-section{
+  transition: transform 0.1s ease,
+}
+
+.first-card:hover{
+  transform: scale(1.09);
+}
+
+.hero-section-6{
+  background-image: url(../images/hero\ section\ 6.jpg);
+  height: 62vh;
+  opacity: 0.4;
+}
+
+.section-6-body{
+padding-top: 100px;
+}
+
+.section-7-img{
+  transition: transform 0.1s ease,
+}
+
+.section-7-img:hover{
+  transform: scale(1.09);
+}
+
+.pics-section{
+  width: 300px;
+}
+
+.hero-section-7 {
+  transition: transform 0.1s ease,
+}
+
+.pic-1:hover{
+  transform: scale(1.09);
+}
+
+.cards-section{
+  transition: transform 0.1s ease,
+}
+
+.card:hover{
+  transform: scale(1.09);
+}
+
+.hero-section-10{
+  background-image: url(../images/hero\ section\ 10.jpg);
+ background-size: 200vh;
+ height: 70vh;
+}
+
+.hero-section-10 p{
+  margin-left: 678px;
+}
+
+.section-10-cards{
+  margin-left: 678px;
+}
+
+
+.section-10-card{
+  margin-left: 10px;
+}
+
+.section-10-btn{
+  margin-left: 780px;
+}
+
+.card-11{
+  width: 350px;
+}
+
+.card-11 h4:hover{
+  color: green;
+  cursor: pointer;
+}
+
+.card-group{
+  transition: transform 0.1s ease,
+}
+
+.card-11:hover{
+  transform: scale(1.09);
+}
+
+.footer-section-1{
+  background-image: url(../images/footer-section.jpg);
+  height: 30vh;
+}
+
+
+.input-btn{
+  margin-left: 160px;
+  margin-top: -35px;
+}
+
+.insta-feed-img-1:hover{
+opacity: 0.5;
+}
+
+.icons:hover{
+  color: green;
+  cursor: pointer;
+}
